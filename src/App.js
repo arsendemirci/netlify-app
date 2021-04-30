@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello!! This is my netlify application ok!!</h1>
+        <h3>Hi!! This is my first change in the application</h3>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
